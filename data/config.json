@@ -1,8 +1,8 @@
 {
-  "feeder": "feeder_wise.xlsx",
-  "circle": "circle_loss.xlsx",
-  "consumer": "consumer.xlsx",
-  "current": "Jul-26",
-  "previous": "Jul-25",
+  "feeder": "PGVCL feeder wise detail.xlsx",
+  "circle": "ATC New1 SDN AND Dn -loss-comarission Aug-26.xlsx",
+  "consumer": "Meeting feeder wise detail Aug-26.xlsx",
+  "current": "Aug-26",
+  "previous": "Aug-25",
   "updated": "20-Nov-2026"
 }
